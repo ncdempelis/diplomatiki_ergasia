@@ -37,6 +37,3 @@ Icon
 
 # ignore vagrant runtime specific files
 .vagrant/
-
-# ignore *.txt
-*.txt
